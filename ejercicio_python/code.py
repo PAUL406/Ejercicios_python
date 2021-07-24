@@ -2,7 +2,7 @@
 from io import open
 import os,fnmatch,shutil,errno
 extensiones = ['*.jpg', '*.png'] 
-directorios = ['/home/paul/Escritorio/ejercicio_python/pseudo_tarea/A','/home/paul/Escritorio/ejercicio_python/pseudo_tarea/B'] 
+directorios = ['/home/paul/Escritorio/ejercicio_python/pseudo_tarea/A','/home/paul/Escritorio/ejercicio_python/pseudo_tarea/B'] #quiero que busque en 2 directorios
 
 lista2=[]
 for i in directorios: 
