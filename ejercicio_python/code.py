@@ -1,7 +1,7 @@
 # Primero que todo buenos días/tarde/noche cuando estés viendo esto :D 
 from io import open
 import os,fnmatch,shutil,errno
-extensiones = ['*.jpg', '*.png'] #Extensiones que quiero que encientre 
+extensiones = ['*.jpg', '*.png'] #Extensiones que quiero que encuentre 
 directorios = ['/home/paul/Escritorio/ejercicio_python/pseudo_tarea/A','/home/paul/Escritorio/ejercicio_python/pseudo_tarea/B'] #directorios en los que buscara
 
 lista2=[]
