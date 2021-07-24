@@ -6,7 +6,7 @@ directorios = ['/home/paul/Escritorio/ejercicio_python/pseudo_tarea/A','/home/pa
 
 lista2=[]
 for i in directorios: 
-    ''' Quiero simplificar esto ¿es posible? o ¿existe otro opción mas eficiente?
+    ''' Quiero simplificar esto ¿es posible? o ¿existe otro opción mas eficiente?....tengo que buscar mas...
     Utilizó 'os.path.join' para unir dos partes y conformar una ruta, 
     'os.walk' crea una un arbol de directorios, el valor retornado del objeto iterable es una tupla con tres elementos
     por ultimo utilizo 'fnmatch.filter' para filtrar entre el árbol de directorios generado por 'os.walk' 
